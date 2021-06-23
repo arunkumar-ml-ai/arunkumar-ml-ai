@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunkumar-ml-ai
+- 👋 Hi, I’m Arunkumar
 - 👀 I’m interested in UX & ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on interesting kaggle projects
