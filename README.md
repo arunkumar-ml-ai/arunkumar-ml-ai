@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arunkumar
-- 👀 I’m interested in UX & ML
+- 👀 I’m interested ML & User Experience
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on interesting kaggle projects
 - 📫 How to reach me ~ WhatsApp at +91-8825456092
