@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Arunkumar
-- 📚 Doing Post Graduate Diploma in Machine Learning & AI
-- 🏫 IIIT-Bangalore
 - 👨🏾‍💻 5 years of prior working experience in UX Design - https://www.behance.net/iamarun4official
 
 <!---
